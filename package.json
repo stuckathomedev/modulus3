@@ -1,0 +1,15 @@
+{
+  "name": "modulus3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:stuckathomedev/modulus3.git",
+  "author": "Kevin Liu <kevin@potatofrom.space>",
+  "license": "MIT",
+  "dependencies": {
+    "ipfs": "^0.32.3",
+    "web3": "^1.0.0-beta.36"
+  },
+  "devDependencies": {
+    "electron": "^3.0.4"
+  }
+}
